@@ -6,4 +6,6 @@ It is implemented using C programming Language.
 
 ## Technology Used: 
 ### IDE's:
+- 
+### Language:
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
