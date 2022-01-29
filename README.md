@@ -20,3 +20,6 @@ Add book detail:
 
 Print all book detail:
 <img src="https://github.com/Kumar-laxmi/Library-Management/blob/main/SCREEN-SHOTS/ss3.png" />
+
+To print total number of books:
+<img src="https://github.com/Kumar-laxmi/Library-Management/blob/main/SCREEN-SHOTS/ss4.png" />
