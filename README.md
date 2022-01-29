@@ -14,3 +14,6 @@ It is implemented using C programming Language.
 ### Output screen-shots:
 Main-menu:
 <img src="https://github.com/Kumar-laxmi/Library-Management/blob/main/SCREEN-SHOTS/ss1.png" />
+
+Add book detail:
+<img src="https://github.com/Kumar-laxmi/Library-Management/blob/main/SCREEN-SHOTS/ss2.png" />
